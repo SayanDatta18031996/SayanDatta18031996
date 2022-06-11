@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SayanDatta18031996](https://github.com/SayanDatta18031996)
 
-- 💬 Ask me about **Manual testing**
+- 💬 Ask me about **Quality Assurance, Manual And Automation Testing**
 
 - 📫 How to reach me **sayandatta18@gmail.com**
 
